@@ -1,4 +1,4 @@
-## Answers to Questions
+### Answers to Questions
 
 ### Questions 1. What is the difference between getElementById, getElementByClassName, and querySelector / querySelectorAll?
 ### Answer 1:
