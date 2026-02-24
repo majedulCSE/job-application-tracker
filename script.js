@@ -1,7 +1,9 @@
+// state management
 let interview = [];
 let rejected = [];
 let currentStatus = 'all';
 
+//DOM elements
 let total = document.getElementById('total');
 let interviewCount = document.getElementById('interview-count');
 let rejectedCount = document.getElementById('rejected-count');
